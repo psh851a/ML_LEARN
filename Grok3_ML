@@ -5,7 +5,7 @@ It seems like you’re interested in using GitHub to learn machine learning! Git
 ### Recommended GitHub Repositories for Learning Machine Learning
 
 1. **microsoft/ML-For-Beginners**
-   https://github.com/microsoft/ML-For-Beginners 
+   https://github.com/microsoft/ML-For-Beginners Fork (copy) it to my own github to practice.
    - **What it is**: A 12-week, 26-lesson curriculum focused on classic machine learning using Python and Scikit-learn. It’s perfect for beginners and avoids deep learning initially (which can be overwhelming at first).
    - **How to use it**: Clone the repository to your computer using `git clone https://github.com/microsoft/ML-For-Beginners.git`. Open the Jupyter notebooks in a tool like Google Colab or your local Jupyter setup. Follow the lessons, complete the quizzes, and try the assignments. Each lesson ties machine learning to real-world data from different cultures, making it engaging.
    - **Why it’s great**: Hands-on projects, clear instructions, and no prior experience needed.
